@@ -1,0 +1,65 @@
+[
+{
+    "type": "header",
+    "version": "5.0.2",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "db_perpus"
+},
+{
+    "type": "table",
+    "name": "admin",
+    "database": "db_perpus",
+    "data": 
+[
+{
+    "codename": "admin",
+    "password": "admin123"
+}
+]
+
+}
+,{
+    "type": "table",
+    "name": "buku",
+    "database": "db_perpus",
+    "data": 
+[
+{
+    "id": "1",
+    "ISBN": "271639821",
+    "JUDUL": "wqrkndbwkqjf",
+    "PENULIS": "wqrjbf",
+    "PENERBIT": "Gramedia",
+    "JB": "N"
+},
+{
+    "id": "2",
+    "ISBN": "183261289",
+    "JUDUL": "saifwefioe",
+    "PENULIS": "fewkfn",
+    "PENERBIT": "Gramedia",
+    "JB": "N"
+},
+{
+    "id": "4",
+    "ISBN": "24124213",
+    "JUDUL": "ewftweftwdq",
+    "PENULIS": "werf23rwqd",
+    "PENERBIT": "Erlangga",
+    "JB": "N"
+},
+{
+    "id": "5",
+    "ISBN": "1234567890123",
+    "JUDUL": "matematika dasar",
+    "PENULIS": "tim mgmp",
+    "PENERBIT": "zamrud",
+    "JB": "N"
+}
+]
+
+}
+]
