@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `admin`
 --
 
-CREATE TABLE "admin" ;
+CREATE TABLE "admin"(codename varchar20) ;
 
 --
 -- Dumping data for table `admin`
